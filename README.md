@@ -9,4 +9,10 @@ This project does nothing, but it provides
 2. User Access Control List, with session management
 3. MySQL database shortcuts functions
 
+Created using Visual Studio 2008.
+You will need mysql connector for this to work.
+
+contact me at lee@konglie.web.id
+@konglie
+
 enjoy!
